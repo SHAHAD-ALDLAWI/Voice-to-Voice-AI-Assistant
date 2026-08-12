@@ -24,12 +24,13 @@ Here is how the project looks and runs in action:
 > *(Put your screenshot inside a folder named `screenshots` and name it `terminal_output.png`, or drag and drop it directly into your GitHub README editor)*  
 > ![Terminal Output](screenshots/terminal_output.png)
 
-**Terminal Text Output Example:**
-╔═══════════════════════════════════════╗
-    ║   🎤 مساعد صوتي ذكي 🎤              ║
-    ╚═══════════════════════════════════════╝
+**Terminal Text Output Example:** 
+
+
+    ║   🎤 مساعد صوتي ذكي 🎤   ║ 
     
-أدخل Cohere API Key
+
+أدخل Cohere API Key 
 :
 
 ✅ تم تهيئة المساعد الصوتي
@@ -44,6 +45,7 @@ Here is how the project looks and runs in action:
 📝 النص المحول: انا اسمي شهد
 
 🤖 معالجة النص...
+
 💬 رد المساعد: مرحبًا شهد، يسعدني مساعدتك! كيف يمكنني أن أكون مفيدًا لك اليوم؟
 
 🔊 تحويل النص إلى صوت...
